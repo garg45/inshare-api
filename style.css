@@ -19,7 +19,7 @@ body {
   width: 150px;
 }
 
-#image-vector {
+.image-vector {
   width: 40vw;
   height: 40vh;
   background:no-repeat center;
