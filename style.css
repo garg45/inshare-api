@@ -20,8 +20,8 @@ body {
 }
 
 #image-vector {
-  width: 10vw;
-  height: 10vh;
+  width: 40vw;
+  height: 40vh;
   background:no-repeat center;
   background-size: contain;
 }
